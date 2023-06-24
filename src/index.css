@@ -1,0 +1,38 @@
+@import url("https://fonts.cdnfonts.com/css/work-sans");
+@import url("https://fonts.cdnfonts.com/css/chau-philomene-one");
+@import url("https://fonts.cdnfonts.com/css/luckiest-guy");
+
+@font-face {
+  font-family: memeFont;
+  src: url(./assets/Fonts/Memefont2.ttf);
+}
+
+@font-face {
+  font-family: "anakeim";
+  src: url("./assets/Fonts/AnakeimDisplaySSi.ttf")
+      format("woff"),
+    url("https://www.dafontfree.net/data/22/a/110848/AnakeimDisplaySSi.ttf")
+      format("opentype"),
+    url("https://www.dafontfree.net/data/22/a/110848/AnakeimDisplaySSi.ttf")
+      format("truetype");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  .shad {
+    box-shadow: 0px 4px 8px 0px rgba(9, 50, 67, 0.16);
+  }
+  .hero-overlay {
+    border-radius: 1000px;
+    filter: blur(150px);
+  }
+  p {
+    @apply max-w-[700px];
+  }
+  img{
+    @apply mx-auto
+  }
+}

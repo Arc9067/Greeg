@@ -21,7 +21,7 @@ const About = () => {
         <article className="self-end flex flex-col gap-6 w-full">
           <h1 className="font-luckiestGuy text-6xl md:text-7xl">
             <span className="text-white  ">About </span>
-            <span className="text-lime-400  ">greeg</span>
+            <span className="text-lime-400  ">greg</span>
           </h1>
           <div className=" text-white text-[16px] font-normal leading-loose tracking-wide">
             Yo! It's Greg, The Rock Market KaBoomBoom, welcoming you to an epic

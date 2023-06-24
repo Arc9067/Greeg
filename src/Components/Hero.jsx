@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="container flex justify-center items-center flex-col gap-7 text-center">
         <h1 className="text-5xl lg:text-8xl font-luckiestGuy">
           DOWN WITH THE BOOM, <br /> UP WITH THE{" "}
-          <span className="text-span">greeg</span>
+          <span className="text-span">greg</span>
         </h1>
         <p className="font-workSans text-xl">
           The Ooga Bogga Crypto Project on Ethereum! <br />

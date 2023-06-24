@@ -11,9 +11,9 @@ const Hero = () => {
           <span className="text-span">greeg</span>
         </h1>
         <p className="font-workSans text-xl">
-          American dollar is loosing its value. Crypto Era is becoming
-          mainstream and there’s very chance that world adopts Ethereum as the
-          global leading{" "}
+          The Ooga Bogga Crypto Project on Ethereum! <br />
+          Yo! It's Greg, The Rock Market KaBoomBoom, welcoming you to an epic
+          adventure.
         </p>
         <a
           href=""
@@ -23,8 +23,16 @@ const Hero = () => {
         </a>
 
         <div className="">
-          <img src={personLeft} alt="" className="absolute -bottom-40 left-0 w-[10rem] lg:w-auto" />
-          <img src={personRight} alt="" className="absolute -bottom-40 right-0 w-[10rem] lg:w-auto" />
+          <img
+            src={personLeft}
+            alt=""
+            className="absolute -bottom-40 left-0 w-[10rem] lg:w-auto"
+          />
+          <img
+            src={personRight}
+            alt=""
+            className="absolute -bottom-40 right-0 w-[10rem] lg:w-auto"
+          />
         </div>
       </div>
     </section>

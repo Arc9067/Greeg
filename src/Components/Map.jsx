@@ -9,9 +9,7 @@ const Map = () => {
           roadmap
         </h1>
         <p className="font-workSans text-xl">
-          American dollar is loosing its value. Crypto Era is becoming
-          mainstream and there’s very chance that world adopts Ethereum as the
-          global leading{" "}
+          Greg Roadmap: Paving the Path to Crypto Success
         </p>
 
         <div className="w-[1136px] p-[0px] flex-col justify-start items-center gap-[34px] inline-flex mt-16">
@@ -28,7 +26,7 @@ const Map = () => {
             <div className="w-[360px] pb-5 min-h-[324px] relative bg-gradient-to-b from-teal-900 to-teal-900">
               <div className="pl-[22px] pr-[21px] pt-[9px] pb-2 left-[0px] top-[0px] absolute bg-emerald-900 justify-center items-center inline-flex">
                 <div className="text-center text-white text-[24px] font-luckiestGuy leading-loose">
-                  Phase 1
+                  1). Genesis Boom
                 </div>
               </div>
               <div className="p-[0px] left-[22px] top-[80px] absolute flex-col justify-start items-start gap-4 inline-flex">
@@ -41,35 +39,34 @@ const Map = () => {
                 <div className="p-[0px] justify-start items-center gap-[12px] inline-flex">
                   <div className="w-4 h-4 relative bg-lime-400 rounded-[100px]" />
                   <div className="text-center text-white text-[20px] font-normal leading-loose">
-                    Coinmarketcap LIsting
+                    Website Launch
                   </div>
                 </div>
                 <div className="p-[0px] justify-start items-center gap-[12px] inline-flex">
                   <div className="w-4 h-4 relative bg-lime-400 rounded-[100px]" />
                   <div className="text-center text-white text-[20px] font-normal leading-loose">
-                    1000+ Holder
+                    community formation
                   </div>
                 </div>
-                
               </div>
             </div>
             <div className="w-[360px] h-[324px] relative bg-gradient-to-b from-teal-900 to-teal-900">
               <div className="px-[20px] pt-[9px] pb-2 left-[0px] top-[0px] absolute bg-emerald-900 justify-center items-center inline-flex">
                 <div className="text-center text-white text-[24px] font-luckiestGuy leading-loose">
-                  Phase 2
+                  2). Rock Solid Development
                 </div>
               </div>
               <div className="p-[0px] left-[22px] top-[80px] absolute flex-col justify-start items-start gap-4 inline-flex">
                 <div className="p-[0px] justify-start items-center gap-[12px] inline-flex">
                   <div className="w-4 h-4 relative bg-lime-400 rounded-[100px]" />
-                  <div className="text-center text-white text-[20px] font-normal leading-loose">
-                    Launch
+                  <div className="text-center capitalize text-white text-[20px] font-normal leading-loose">
+                    telegram trending
                   </div>
                 </div>
                 <div className="p-[0px] justify-start items-center gap-[12px] inline-flex">
                   <div className="w-4 h-4 relative bg-lime-400 rounded-[100px]" />
                   <div className="text-center text-white text-[20px] font-normal leading-loose">
-                    Coinmarketcap LIsting
+                    Renounced Ownership
                   </div>
                 </div>
                 <div className="p-[0px] justify-start items-center gap-[12px] inline-flex">
@@ -78,20 +75,19 @@ const Map = () => {
                     1000+ Holder
                   </div>
                 </div>
-                
               </div>
             </div>
             <div className="w-[360px] h-[324px] relative bg-gradient-to-b from-teal-900 to-teal-900">
               <div className="pl-[20px] pr-[19px] pt-[9px] pb-2 left-[0px] top-[0px] absolute bg-emerald-900 justify-center items-center inline-flex">
                 <div className="text-center text-white text-[24px] font-luckiestGuy leading-loose">
-                  Phase 3
+                  3). Awareness
                 </div>
               </div>
               <div className="p-[0px] left-[22px] top-[80px] absolute flex-col justify-start items-start gap-4 inline-flex">
                 <div className="p-[0px] justify-start items-center gap-[12px] inline-flex">
                   <div className="w-4 h-4 relative bg-lime-400 rounded-[100px]" />
                   <div className="text-center text-white text-[20px] font-normal leading-loose">
-                    Launch
+                    Twitter Trending
                   </div>
                 </div>
                 <div className="p-[0px] justify-start items-center gap-[12px] inline-flex">
@@ -103,10 +99,9 @@ const Map = () => {
                 <div className="p-[0px] justify-start items-center gap-[12px] inline-flex">
                   <div className="w-4 h-4 relative bg-lime-400 rounded-[100px]" />
                   <div className="text-center text-white text-[20px] font-normal leading-loose">
-                    1000+ Holder
+                    Coingecko Listing
                   </div>
                 </div>
-                
               </div>
             </div>
           </div>

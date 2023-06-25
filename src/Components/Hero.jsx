@@ -22,7 +22,7 @@ const Hero = () => {
           BUY BOOM BOOM
         </a>
         <iframe
-          src="https://player.vimeo.com/video/839333859?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+          src="https://player.vimeo.com/video/839333859?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;autoplay=1&amp;loop=1"
           width="100%"
           height="360"
           frameborder="0"

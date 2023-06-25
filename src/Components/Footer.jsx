@@ -38,7 +38,11 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="" className="hover:scale-90 transition">
+          <a
+            href="mailto:team@grugtoken.com"
+            target="_blank"
+            className="hover:scale-90 transition"
+          >
             <svg
               width="48"
               height="48"

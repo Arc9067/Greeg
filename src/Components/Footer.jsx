@@ -12,7 +12,11 @@ const Footer = () => {
           Reserved.
         </p>
         <div className="flex items-center gap-5">
-          <a href="" className="hover:scale-90 transition">
+          <a
+            href="https://t.me/GrugToken"
+            target="_blank"
+            className="hover:scale-90 transition"
+          >
             <svg
               width="48"
               height="48"
@@ -56,7 +60,11 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="" className="hover:scale-90 transition">
+          <a
+            href="https://twitter.com/GrugToken"
+            target="_blank"
+            className="hover:scale-90 transition"
+          >
             <svg
               width="48"
               height="48"

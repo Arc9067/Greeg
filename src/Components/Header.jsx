@@ -26,7 +26,7 @@ const Header = () => {
           </li>
         </ul>
         <a
-          href=""
+          href="https://t.me/GrugToken"
           className="px-8 py-4 bg-secondary border border-light rounded-md shad font-anakeimDisplaySsiRegular flex items-center gap-3 hover:bg-transparent uppercase max-w-full"
         >
           <LiaTelegramPlane /> join grug

@@ -39,15 +39,6 @@ const About = () => {
           >
             <div className="text-white text-[16px] leading-snug">BUY greg</div>
           </a>
-          <iframe
-            src="https://player.vimeo.com/video/839333859?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-            width="100%"
-            height="360"
-            frameborder="0"
-            allow="autoplay; fullscreen; picture-in-picture"
-            allowfullscreen
-            title="video"
-          ></iframe>{" "}
         </article>
       </div>
     </section>

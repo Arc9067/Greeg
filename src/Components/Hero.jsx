@@ -15,6 +15,9 @@ const Hero = () => {
           Yo! It's grug, The Rock Market KaBoomBoom, welcoming you to an epic
           adventure.
         </p>
+        <p className=" text-3xl font-luckiestGuy">
+          0xf7f981fde2984b02c63751a6264abf57e3100308
+        </p>
         <a
           href="https://www.dextools.io/app/ether/pair-explorer/0x1282b50a51f0694A418e7555Dfff1e8cd1a5a416"
           target="_blank"

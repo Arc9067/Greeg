@@ -34,10 +34,13 @@ const About = () => {
             like never before!
           </div>
           <a
-            href=""
+            href="https://www.dextools.io/app/ether/pair-explorer/0x1282b50a51f0694A418e7555Dfff1e8cd1a5a416"
+            target="_blank"
             className="w-[238px] h-[54px] font-anakeimDisplaySsiRegular px-8 py-4 bg-green-700 rounded shadow  border border-lime-400 justify-center items-center gap-[10px] inline-flex"
           >
-            <div className="text-white text-[16px] leading-snug">BUY grug</div>
+            <div className="text-white text-[16px] leading-snug capitalize">
+              live chart
+            </div>
           </a>
         </article>
       </div>

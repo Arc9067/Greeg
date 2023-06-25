@@ -16,7 +16,8 @@ const Hero = () => {
           adventure.
         </p>
         <a
-          href=""
+          href="https://www.dextools.io/app/ether/pair-explorer/0x1282b50a51f0694A418e7555Dfff1e8cd1a5a416"
+          target="_blank"
           className="w-[355px] h-[54px] px-8 py-4 bg-gradient-to-l from-green-300 to-lime-300 rounded shadow  border border-lime-400 justify-center items-center gap-[10px] text-black text-[16px] leading-snug font-anakeimDisplaySsiRegular  hover:text-white"
         >
           BUY BOOM BOOM

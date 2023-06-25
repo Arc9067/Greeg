@@ -28,11 +28,15 @@ const Mics = () => {
             </article>
             <article className="flex gap-5 items-center capitalize">
               <span className="w-10 h-[13px] relative bg-gradient-to-r from-yellow-200 to-yellow-200 rounded-lg" />{" "}
-              <h3 className="text-xl">2% max transacation </h3>
+              <h3 className="text-xl">100% max transacation </h3>
             </article>
             <article className="flex gap-5 items-center capitalize">
               <span className="w-10 h-[13px] relative bg-gradient-to-r from-sky-400 to-teal-950 rounded-lg" />{" "}
-              <h3 className="text-xl">5% max wallet </h3>
+              <h3 className="text-xl">100% max wallet </h3>
+            </article>
+            <article className="flex gap-5 items-center capitalize">
+              <span className="w-10 h-[13px] relative bg-gradient-to-r from-red-900 to-yellow-500 rounded-lg" />{" "}
+              <h3 className="text-xl">lp burn </h3>
             </article>
           </div>
         </article>

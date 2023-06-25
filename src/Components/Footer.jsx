@@ -8,7 +8,7 @@ const Footer = () => {
           grug
         </a>
         <p className="">
-          Copyright © <span className="">{Date()}</span> grug. All Rights
+          Copyright © <span className="">{Date()}</span> Grug. All Rights
           Reserved.
         </p>
         <div className="flex items-center gap-5">

@@ -5,10 +5,10 @@ const Footer = () => {
     <footer className="py-6 w-full">
       <div className="container flex justify-between items-center flex-col md:flex-row gap-8 text-center">
         <a href="" className="font-luckiestGuy text-5xl">
-          greg
+          grug
         </a>
         <p className="">
-          Copyright © <span className="">{Date()}</span> grEg. All Rights
+          Copyright © <span className="">{Date()}</span> grug. All Rights
           Reserved.
         </p>
         <div className="flex items-center gap-5">

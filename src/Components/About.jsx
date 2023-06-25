@@ -21,10 +21,10 @@ const About = () => {
         <article className="self-end flex flex-col gap-6 w-full">
           <h1 className="font-luckiestGuy text-6xl md:text-7xl">
             <span className="text-white  ">About </span>
-            <span className="text-lime-400  ">greg</span>
+            <span className="text-lime-400  ">grug</span>
           </h1>
           <div className=" text-white text-[16px] font-normal leading-loose tracking-wide">
-            Yo! It's Greg, The Rock Market KaBoomBoom, welcoming you to an epic
+            Yo! It's grug, The Rock Market KaBoomBoom, welcoming you to an epic
             adventure. Get ready to unleash the power of Ooga Bogga, where
             ancient wisdom meets modern crypto. Join me on this wild ride as we
             combine the primal forces of innovation and excitement to
@@ -37,7 +37,7 @@ const About = () => {
             href=""
             className="w-[238px] h-[54px] font-anakeimDisplaySsiRegular px-8 py-4 bg-green-700 rounded shadow  border border-lime-400 justify-center items-center gap-[10px] inline-flex"
           >
-            <div className="text-white text-[16px] leading-snug">BUY greg</div>
+            <div className="text-white text-[16px] leading-snug">BUY grug</div>
           </a>
         </article>
       </div>

@@ -9,7 +9,7 @@ const Map = () => {
           roadmap
         </h1>
         <p className="font-workSans text-xl">
-          grug Roadmap: Paving the Path to Crypto Success
+          grug 2.0 Roadmap: Paving the Path to Crypto Success
         </p>
 
         <div className="w-[1136px] p-[0px] flex-col justify-start items-center gap-[34px] inline-flex mt-16">

@@ -24,7 +24,7 @@ const About = () => {
             <span className="text-lime-400  ">grug 2.0</span>
           </h1>
           <div className=" text-white text-[16px] font-normal leading-loose tracking-wide">
-            Yo! It's grug, The Rock Market KaBoomBoom, welcoming you to an epic
+            Yo! It's Grug 2.0, The Rock Market KaBoomBoom, welcoming you to an epic
             adventure. Get ready to unleash the power of Ooga Bogga, where
             ancient wisdom meets modern crypto. Join me on this wild ride as we
             combine the primal forces of innovation and excitement to
@@ -34,7 +34,7 @@ const About = () => {
             like never before!
           </div>
           <a
-            href="https://www.dextools.io/app/ether/pair-explorer/0x1282b50a51f0694A418e7555Dfff1e8cd1a5a416"
+            href=""
             target="_blank"
             className="w-[238px] h-[54px] font-anakeimDisplaySsiRegular px-8 py-4 bg-green-700 rounded shadow  border border-lime-400 justify-center items-center gap-[10px] inline-flex"
           >

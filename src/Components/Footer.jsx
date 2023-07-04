@@ -65,7 +65,7 @@ const Footer = () => {
             </svg>
           </a>
           <a
-            href="https://twitter.com/GrugToken"
+            href="https://twitter.com/Grug20eth"
             target="_blank"
             className="hover:scale-90 transition"
           >

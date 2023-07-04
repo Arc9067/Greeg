@@ -8,11 +8,11 @@ const Hero = () => {
       <div className="container flex justify-center items-center flex-col gap-7 text-center">
         <h1 className="text-5xl lg:text-8xl font-luckiestGuy">
           DOWN WITH THE BOOM, <br /> UP WITH THE{" "}
-          <span className="text-span">grug</span>
+          <span className="text-span">grug 2.0</span>
         </h1>
         <p className="font-workSans text-xl">
           The Ooga Bogga Crypto Project on Ethereum! <br />
-          Yo! It's grug, The Rock Market KaBoomBoom, welcoming you to an epic
+          Yo! It's Grug 2.0, The Rock Market KaBoomBoom, welcoming you to an epic
           adventure.
         </p>
         <p className=" text-3xl font-luckiestGuy">

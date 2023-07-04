@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="py-6 w-full">
       <div className="container flex justify-between items-center flex-col md:flex-row gap-8 text-center">
         <a href="" className="font-luckiestGuy text-5xl">
-          grug
+          grug 2.0
         </a>
         <p className="">
           Copyright © <span className="">{Date()}</span> Grug. All Rights
@@ -13,7 +13,7 @@ const Footer = () => {
         </p>
         <div className="flex items-center gap-5">
           <a
-            href="https://t.me/GrugToken"
+            href=""
             target="_blank"
             className="hover:scale-90 transition"
           >

@@ -16,13 +16,13 @@ const Hero = () => {
           adventure.
         </p>
         <p className=" text-3xl font-luckiestGuy">
-          0xf7f981fde2984b02c63751a6264abf57e3100308
+          0x.....................
         </p>
         <a href="mailto:team@grugtoken.com" className=" text-3xl font-mono">
           team@grugtoken.com
         </a>
         <a
-          href="https://www.dextools.io/app/ether/pair-explorer/0x1282b50a51f0694A418e7555Dfff1e8cd1a5a416"
+          href=""
           target="_blank"
           className="w-[355px] h-[54px] px-8 py-4 bg-gradient-to-l from-green-300 to-lime-300 rounded shadow  border border-lime-400 justify-center items-center gap-[10px] text-black text-[16px] leading-snug font-anakeimDisplaySsiRegular  hover:text-white"
         >

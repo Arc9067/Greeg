@@ -13,7 +13,7 @@ const Footer = () => {
         </p>
         <div className="flex items-center gap-5">
           <a
-            href=""
+            href="https://t.me/Grug20"
             target="_blank"
             className="hover:scale-90 transition"
           >
